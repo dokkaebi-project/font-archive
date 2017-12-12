@@ -6,7 +6,8 @@
 
 ### Kimjoongtae fonts
 
-Released under SIL OFL
+* (c) Joongtae Kim
+* Public domain
 
 ### FNTCOL16
 
